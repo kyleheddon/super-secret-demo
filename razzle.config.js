@@ -1,5 +1,5 @@
 'use strict';
 
 module.exports = {
-  plugins: ['scss'],
+  plugins: ['scss']
 };
